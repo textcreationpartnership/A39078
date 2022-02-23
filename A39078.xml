@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An expostulatorie (but friendly) adhortation to that part of the ministry of England, who (being true to the doctrine) are not yet reconciled to the rites and ceremonies of the church.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39078</idno>
+            <idno type="STC">Wing E3889</idno>
+            <idno type="STC">ESTC R218786</idno>
+            <idno type="EEBO-CITATION">99830351</idno>
+            <idno type="PROQUEST">99830351</idno>
+            <idno type="VID">34802</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34802)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2090:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An expostulatorie (but friendly) adhortation to that part of the ministry of England, who (being true to the doctrine) are not yet reconciled to the rites and ceremonies of the church.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication conjectured by Wing as ca. 1655-1665.</note>
+                  <note>Reproduction of the original in the University College Library, Oxford University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Doctrines --  Early works to 1800.</term>
+               <term>Church of England --  Creeds --  Early works to 1800.</term>
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34802:1"/>
+            <pb n="1" facs="tcp:34802:1" rendition="simple:additions"/>
+            <head>An Expoſtulatorie (but friendly) Adhorta<g ref="char:EOLhyphen"/>tion to that part of the Miniſtry of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who (being true to the Doctrine) are not yet reconciled to the Rites and Cere<g ref="char:EOLhyphen"/>monies of the Church.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have paſſed a double ſcore of years in a Station that afforded me ſome opportunity to diſcern, and with inclinations that ſuffer'd me not to be unconcern'd, for what befell the Church of God in this Nation. There hath nothing been (all along) my buſineſs more, than to underſtand, both the poſitions and demeanure of the Old Puritan; betwixt whom, and the Hierarchie, the differences were then conſpicuous; but not as I conceiv'd of much ſcandal; for during the firſt fourth part of that time, there was ſcarce, either the Denomination of Non-Conformity, or the practice. Their Doctrinal Tenets were never arrain'd as diſcrepant from our <hi>Eſtabliſh't Articles,</hi> whatever their private Notions (as to Ceremonies and Forms) were, they exhibited thereto more than paſſive Obedience; and an utter abhorrence of Common-Prayer they were ſo far from; that (on the ordinary Holy<g ref="char:EOLhyphen"/>dayes) when there was no more enjoyn'd but the uſing of it, and calling the people to together for that end) they thought it not out of ſeaſon to be inſtant with their Au<g ref="char:EOLhyphen"/>ditors in other parts of the Miniſterial Office, and added
+<pb n="2" facs="tcp:34802:2"/>Sermons to the Service. They were content (though perhaps they would not have choſen them) to put on the enjoyned ſorts of Habit, and Dreſs, rather then not preach the Goſpel of Chriſt. 'Tis true, when that Book which gave the Rein to the Vulgar (who are too apt to take Head of themſelves) and ſome Liberty (yet no Com<g ref="char:EOLhyphen"/>mand) for Recreations, on the Lords-day was to be pub<g ref="char:EOLhyphen"/>liſhed; ſundry of them quitted their preſent charge, quietly withdrawing to beyond the Seas: but I remem<g ref="char:EOLhyphen"/>ber not, that they gathered Churches, or maintain'd (publickly) any worſhip (within the bowels of this King<g ref="char:EOLhyphen"/>dome) by Law prohibited: Others of them (who were no leſs tenderly conſcientious than the former) weather'd out that ſtorm, kept their ſtations, and by the humility of their deportment, or candidneſs of their Addreſs, found means not to come under the wrath of the Magi<g ref="char:EOLhyphen"/>ſtrate; except, ſome three or four, that (for certain im<g ref="char:EOLhyphen"/>moderate, and ill-tim'd publications) were ſomewhat roughly dealt withall. I am fully perſwaded (in the ge<g ref="char:EOLhyphen"/>neral) they only lifted up their hands with Prayers and Tears (the Chriſtians beſt weapons) to the God of Hea<g ref="char:EOLhyphen"/>ven, for the removal of ſuch things, as (they judged) were burthenſome: And, that they had never lifted up an Arm of Fleſh, in oppoſition to the power ſet over them by Heaven; if a fatal co-incidence of temporal, no leſs than ſpiritual concerns, had not melted down the Reſo<g ref="char:EOLhyphen"/>lutions of thoſe Times, ſo as there came out (beyond ex<g ref="char:EOLhyphen"/>pectation) a <hi>Parliament,</hi>
+               <note n="*" place="margin">Exod. 32.24.</note> a <hi>Parliament,</hi> which claim'd (even at firſt daſh) a right of dividing (at leaſt) the Empire with our <hi>Caeſar:</hi> And indeed, thoſe praetenſions (ſupported by a jealouſie, which a con<g ref="char:EOLhyphen"/>nivance towards all, and the activity of ſome Romaniſts had occaſion'd) were ſo managed, as might leſſen the wonder, if ſome perſons, even of ſincere intentions, were
+<pb n="3" facs="tcp:34802:2"/>Conſcientiouſly led into a miſtake of Duty. I ſpeak it knowingly many of you would have parted with your right-eyes (when the diſmal conſequences of that breach were within view) to have obviated the miſchief; And when the appointed time was drawing on, wherein God had determined to bring home our King, you were not behind with you ſeaſonable and vigorous Aſſiſtances: Though you could peradventure have been well pleaſed, to have underſtood the length and breadth of that Uni<g ref="char:EOLhyphen"/>verſal regard held forth towards tender Conſciences; yet when you did not find it praeviouſly aſcertain'd, you would not leave the main work at a ſtand for all that, but helpt it forward by all poſſible and proper means: Notwithſtanding the many Invectives which have been thrown (at randome) againſt you, I cannot think that <hi>Hacket</hi> and <hi>Cartwright</hi> (in remoter dayes, or <hi>Peters</hi> and <hi>Calamy</hi> in our own) acted upon the ſame principles; nor that the Original of thoſe woful diſſentions (differing ſentiments I would rather term them) took birth meerly from obſtinacy; for our Reformed Religion was but lately planted here, and the Law for Uniformity (how<g ref="char:EOLhyphen"/>ever fit) could not have ſpread its root ſo far and deep, as that (like the Laws of God) it ſhould oblige all <hi>(Eng<g ref="char:EOLhyphen"/>liſh)</hi> men, at all times and in all places; nor was it yet be<g ref="char:EOLhyphen"/>come (like thoſe of the <hi>Medes</hi> and <hi>Perſians</hi> unalterable; when Doctor <hi>Coxe,</hi> who could have no Juriſdiction over his poor exil'd Countrey-men (taken in at <hi>Franck ford</hi> about a year before, under a condition that they ſhould not vary from the <hi>French</hi> Church for fear of diviſions) would needs rule alone there, and force the <hi>Engliſh</hi> Li<g ref="char:EOLhyphen"/>turgie upon them; a thing, that Dr. <hi>Storie</hi> (though him<g ref="char:EOLhyphen"/>ſelf a Biſhop) thought not fit to attempt; hence animo<g ref="char:EOLhyphen"/>ſities and heats, which in more then the lapſe of an hun<g ref="char:EOLhyphen"/>dred years cannot be allay'd or cool'd: I find Doctor <hi>Coxe</hi>
+               <pb n="4" facs="tcp:34802:3" rendition="simple:additions"/>every where <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> character'd, as a veſſel well fraught with Learning; and Piety, but, a little over-hung with the ſayles of an high-ruſtling Spirit, which rendred him obnoxious to the violent guſts of his own paſſion; and probably the intemperance of his actings, drew from <hi>Calvin,</hi> thoſe Diminutions, he put upon the <hi>Common-Prayer-Book,</hi> which had elſe never been heard of: yet note we here in paſſing, that moſt of the paſſages in it, whereon he thought ſit to faſten the term of <hi>Inept</hi> (only ('tis likely) becauſe he apprehended them unapt) have ſince, upon review, been taken off to ſo good a degree, as his ſucceſſour <hi>Beza</hi> found nothing in the ſub<g ref="char:EOLhyphen"/>ſtance of it, or the Dependent Rites; whereto the inter<g ref="char:EOLhyphen"/>vention of the Magiſtrates Command, ought not to ob<g ref="char:EOLhyphen"/>lige (even the conſcience) by actual obedience. It was a truly Chriſtian frame the <hi>Geneva-Engliſh</hi> put upon themſelves, when they obſerved, God (by drying up the <hi>Red Sea</hi> of blood, which had flowed here) to be open<g ref="char:EOLhyphen"/>ing a way for them towards their own land, by Letters to their Brethren diſperſed throughout <hi>Germany,</hi> they ſued for reconciliation, and enſued peace, even with thoſe who had ſupplanted them at, and drove them from <hi>Frankford;</hi> Nay, I can (me thinks) eaſily pardon the im<g ref="char:EOLhyphen"/>portunities wherewith after their return, they ſollicited our Governours, whil'ſt the things in controverſie might ſeem to be (yet) <hi>ſub Judice,</hi> and under Debate: But, now, the caſe is ſo much alter'd, That there is,
+<list>
+                  <item>1. <hi>No reaſon but to Obey:</hi>
+                  </item>
+                  <item>2. <hi>No neceſſity of Diſobedience.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Conſider (I beſeech you) whether, All you have ſaid, or writ to juſtifie your ſeparation, can ſignifie any thing, unleſs what you take offence at, were propoſed, either
+<pb n="5" facs="tcp:34802:3" rendition="simple:additions"/>
+               <list>
+                  <item>1. <hi>As, Eſſential parts of worſhip,</hi> or,</item>
+                  <item>2. <hi>As, Conferring Grace.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Truly, I have all-a-long (without prejudice, nay, with inclinations tending toward you) conſulted ſome of your perſons, and moſt of your Books, yet am altogether of this mind, that the falling-ſhort herein hath unpointed all your Arguments; The very Impoſers themſelves hav<g ref="char:EOLhyphen"/>ing made (a thouſand times) as ample and as clear De<g ref="char:EOLhyphen"/>claration (in reference to both) as can poſſibly come from the mouth of man, That,
+<list>
+                  <item>1. To Ordain ſuch a multitude of Ceremonies, as would employ moſt or our thoughts or care, in time of Divine Service, how to do them aright (which ſeems to have been the very ſtate and poſture of the dayes St. <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> lived in, yet he brake down no gap, nor leap't out from the fold) deſerves really the name of ſuperſti<g ref="char:EOLhyphen"/>ſtion.</item>
+                  <item>2. To make any of them an eſſential part of Worſhip, or attribute to them the power of obtaining pardon for Us, or working Grace in Us, were direct Irreligion.</item>
+                  <item>3. To make the Apoſtolical, or in themſelves neceſ<g ref="char:EOLhyphen"/>ſary commands, that bind the Conſcience ſo, as all the Laws of God do, were down-right preſumption.</item>
+               </list>
+            </p>
+            <p>They readily grant, that to Conſtituted a new object of worſhip (ſuppoſe, by invocation of Saints or Angels;) That to inſtitute a new part of worſhip (ſuppoſe by ad<g ref="char:EOLhyphen"/>dition to the number of Sacraments) is not in the Churches prerogative. All they affirm of Rites or Ceremonies, is, but that they may be occaſional motives, or remembran<g ref="char:EOLhyphen"/>cers of Devotion; and what can remain (after ſuch Con<g ref="char:EOLhyphen"/>ceſſions) worthy ſo fatal an oppoſition? If others find
+<pb n="6" facs="tcp:34802:4"/>them ſo, why may not I (if a Miniſter) uſe them? (If a Lay-man be preſent at them? though I find not, they have that tendency upon my Spirit. Nay, I will go one ſtep further, and affirm; 'Tis poſſible that the Governours of the Church may be culpable in the Seaſon, Manner, Mea<g ref="char:EOLhyphen"/>ſures, or nature of their injunctions, and yet the members of that Church indiſpenſibly bound to a compliance. Se<g ref="char:EOLhyphen"/>riouſly, I would not beſpeak (for this ſort of things) in any bodies apprehenſion a room beyond their due value; but to me 'tis very clear, that there is no leſs (yea more) of ſuperſtition, in ſaying, They may not be uſed (upon the account of Conſcience) then in ſaying; They ſhall be uſed (meerly upon the account of Order, Decency, and Obedience.) In their own nature they are (by <hi>Calvin's</hi> judgement) tolerable; in <hi>Beza</hi>'s (being ſtampt with Au<g ref="char:EOLhyphen"/>thority) Obligatory; and ſince own'd no otherwiſe, than as Ordinances of men, they may ſeem to be the direct aime of thoſe two Texts, <hi>Rom.</hi> 13.5. and 1 <hi>Pet.</hi> 2.13. Doubtleſs, the Spouſe of Chriſt would be no leſs lovely, if ſome abatements (according to your deire) were made; but, will you ſcratch and wound her face, becauſe they who have the care of her Attire, eſteem thoſe as beauty-ſpots; which you think only black patches? or becauſe, they judge thoſe well-ſuited ornaments, which cannot (in your opinion) paſs for better than gaudie, will you make an irreparable rent, in that garment which ſhould have <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſeam? Certainly, if (in ſome caſes) we ought to part with much for peace-ſake, we may (in this) retain much <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo, eſpecially, ſince our Duty is apparently ſuper-added to conveniencie. And he hath taken upon him that Honourable Function (to which a wo is fixed, if he preach not) quits not himſelf like a man (nay comes not off like a good and faithful ſervant) if he get into the Cellar, when he ſhould be on his watch at the houſe top; or
+<pb n="7" facs="tcp:34802:4" rendition="simple:additions"/>whiſper in ſome corner, when he ſhould lift up his voice like a trumpet. I know many of you, whom I dare not but think to be men of Holy ſincere intentions, and yet I am (verily) perſwaded, ſin lies at your doors upon this very account: If it be true (which I do not ſay not think) That the moſt part of the Conforming Clergy are remiſs, negligent, dry, perfunctorie in their offices; whey, then (by the mercies of God, by the bowells of Chriſt) be in<g ref="char:EOLhyphen"/>treated (nay take heed how you do it not) to put in your ſickles into the harveſt; and ſuffer not the Lords people to periſh for want of food; which you cannot (in the po<g ref="char:EOLhyphen"/>ſture you have choſen) diſpenſe unto them without diſ<g ref="char:EOLhyphen"/>advantage, without ſcandal, without crime: Thus you will diſappoint all thoſe (many) that have evil will to <hi>Zion;</hi> Thus you will fruſtrate the expectation of all ſuch, as could find in their heart, that your voyces ſhould ne<g ref="char:EOLhyphen"/>ver (more) be heard in this land; And, whereas (now) they ſpeak evil of you as of evil-doers, they will (then) be aſhamed that falſly accuſe your good Converſation in Chriſt; doubt not but in whatſoever (neceſſary things) the preſent ſettlement hath come ſhort; the great and wiſe diſpoſer (above) will find means (when we are ready for ſo great a mercy) to perfect all that concerns his own, or peoples intereſt, without engaging any of them to do evil (or what hath the appearance of evil) <hi>That Good may come thereof.</hi>
+            </p>
+            <p>I wiſh my Pen were enabled (before I conclude) to re<g ref="char:EOLhyphen"/>leaſe you from an infirmity (under which, ſome of you have been bowed down, for almoſt Thirty years;) I mean, the <hi>Covenant:</hi> And (verily) I have heard great Caſuiſts affirm, That, if the matter of the Oath be unlawful, not within our own (juſt) Power, or impoſed by an Unjuſt Authority; There needs nothing, but the ſuppleing waters of Repentance, to diſſolve its bands.</p>
+            <pb n="8" facs="tcp:34802:5"/>
+            <p>It is not (I ſuppoſe) of any importance, whether this Addreſs be at all Subſcrib'd or no; yet (being not willing to impoſe upon the Reader a fictitious Name, and al<g ref="char:EOLhyphen"/>together indifferent, whether mine be known) I ſhall leave him to his choice, whether he will give himſelf the trouble of unfolding, what a Reverend Miniſter (now with God) took the pains to lap-up in an <seg rend="centerJustify">ANAGRAM,<lb/> 
+                  <hi>Our Chriſt will helpe.</hi>
+               </seg>
+            </p>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>He's ours, and therefore will, He's Chriſt, and can</l>
+                     <l>Help: when, in vain is all the Help of Man.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
